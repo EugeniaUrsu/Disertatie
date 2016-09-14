@@ -1,0 +1,407 @@
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\bin\ApplicationInsights.config
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\bin\roslyn\csc.exe
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\bin\roslyn\System.Collections.Immutable.dll
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\bin\roslyn\vbc.exe
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\bin\roslyn\VBCSCompiler.exe
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\bin\roslyn\VBCSCompiler.exe.config
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\bin\Store.WebApi.dll.config
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\bin\Store.WebApi.dll
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\bin\Store.WebApi.pdb
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\bin\Antlr3.Runtime.dll
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\bin\EntityFramework.dll
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\bin\EntityFramework.SqlServer.dll
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\bin\Microsoft.AI.Web.dll
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\bin\Microsoft.AI.WindowsServer.dll
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\bin\Microsoft.ApplicationInsights.dll
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\bin\Microsoft.Owin.dll
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\bin\Microsoft.Owin.Security.dll
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\bin\Microsoft.Owin.Security.Google.dll
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\bin\Microsoft.Web.Infrastructure.dll
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\bin\Newtonsoft.Json.dll
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\bin\Owin.dll
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\bin\System.Net.Http.Formatting.dll
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\bin\System.Web.Helpers.dll
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\bin\System.Web.Http.dll
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\bin\System.Web.Http.Owin.dll
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\bin\System.Web.Http.WebHost.dll
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\bin\System.Web.Mvc.dll
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\bin\System.Web.Optimization.dll
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\bin\System.Web.Razor.dll
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\bin\System.Web.WebPages.Deployment.dll
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\bin\System.Web.WebPages.dll
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\bin\System.Web.WebPages.Razor.dll
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\bin\WebGrease.dll
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\bin\Microsoft.AI.Web.xml
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\bin\Microsoft.AI.WindowsServer.xml
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\bin\Microsoft.ApplicationInsights.xml
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\bin\Newtonsoft.Json.xml
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\bin\System.Net.Http.Formatting.xml
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\bin\System.Web.Helpers.xml
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\bin\System.Web.Http.xml
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\bin\System.Web.Http.WebHost.xml
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\bin\System.Web.Mvc.xml
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\bin\System.Web.Optimization.xml
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\bin\System.Web.Razor.xml
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\bin\System.Web.WebPages.xml
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\bin\System.Web.WebPages.Deployment.xml
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\bin\System.Web.WebPages.Razor.xml
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\bin\Antlr3.Runtime.pdb
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\bin\EntityFramework.xml
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\bin\EntityFramework.SqlServer.xml
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\bin\Microsoft.Owin.xml
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\bin\Microsoft.Owin.Security.xml
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\bin\Microsoft.Owin.Security.Google.xml
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\bin\System.Web.Http.Owin.xml
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\obj\Debug\Store.WebApi.csprojResolveAssemblyReference.cache
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\obj\Debug\Store.WebApi.dll
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\obj\Debug\Store.WebApi.pdb
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\bin\System.Web.Cors.dll
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\bin\System.Web.Http.Cors.dll
+c:\users\eugenia_ursu\documents\visual studio 2015\Projects\Store.WebApi\Store.WebApi\bin\System.Web.Http.Cors.xml
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\bin\ApplicationInsights.config
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\bin\roslyn\csc.exe
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\bin\roslyn\vbc.exe
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\bin\Store.WebApi.dll.config
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\bin\Store.WebApi.dll
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\bin\Store.WebApi.pdb
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\bin\Antlr3.Runtime.dll
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\bin\EntityFramework.dll
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\bin\Microsoft.AI.Web.dll
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\bin\Microsoft.ApplicationInsights.dll
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\bin\Microsoft.Owin.dll
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\bin\Microsoft.Owin.Security.dll
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\bin\Newtonsoft.Json.dll
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\bin\Owin.dll
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\bin\System.Web.Cors.dll
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\bin\System.Web.Helpers.dll
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\bin\System.Web.Http.Cors.dll
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\bin\System.Web.Http.dll
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\bin\System.Web.Http.Owin.dll
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\bin\System.Web.Mvc.dll
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\bin\System.Web.Optimization.dll
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\bin\System.Web.Razor.dll
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\bin\System.Web.WebPages.dll
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\bin\WebGrease.dll
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\bin\Microsoft.AI.Web.xml
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\bin\Microsoft.ApplicationInsights.xml
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\bin\System.Web.Http.Cors.xml
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\bin\Newtonsoft.Json.xml
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\bin\System.Web.Helpers.xml
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\bin\System.Web.Http.xml
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\bin\System.Web.Mvc.xml
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\bin\System.Web.Optimization.xml
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\bin\System.Web.Razor.xml
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\bin\System.Web.WebPages.xml
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\bin\Antlr3.Runtime.pdb
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\bin\EntityFramework.xml
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\bin\Microsoft.Owin.xml
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\bin\Microsoft.Owin.Security.xml
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\bin\System.Web.Http.Owin.xml
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\obj\Debug\Store.WebApi.csprojResolveAssemblyReference.cache
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\obj\Debug\Store.WebApi.dll
+C:\Users\eugenia_ursu\Documents\Visual Studio 2015\Projects\Store\Store.WebApi\Store.WebApi\obj\Debug\Store.WebApi.pdb
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\bin\ApplicationInsights.config
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\bin\roslyn\csc.exe
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\bin\roslyn\vbc.exe
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\bin\Store.WebApi.dll.config
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\bin\Store.WebApi.dll
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\bin\Store.WebApi.pdb
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\bin\Antlr3.Runtime.dll
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\bin\EntityFramework.dll
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\bin\Microsoft.AI.Web.dll
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\bin\Microsoft.ApplicationInsights.dll
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\bin\Microsoft.Owin.dll
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\bin\Microsoft.Owin.Security.dll
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\bin\Newtonsoft.Json.dll
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\bin\Owin.dll
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\bin\System.Web.Cors.dll
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\bin\System.Web.Helpers.dll
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\bin\System.Web.Http.Cors.dll
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\bin\System.Web.Http.dll
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\bin\System.Web.Http.Owin.dll
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\bin\System.Web.Mvc.dll
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\bin\System.Web.Optimization.dll
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\bin\System.Web.Razor.dll
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\bin\System.Web.WebPages.dll
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\bin\WebGrease.dll
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\bin\Microsoft.AI.Web.xml
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\bin\Microsoft.ApplicationInsights.xml
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\bin\System.Web.Http.Cors.xml
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\bin\Newtonsoft.Json.xml
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\bin\System.Web.Helpers.xml
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\bin\System.Web.Http.xml
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\bin\System.Web.Mvc.xml
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\bin\System.Web.Optimization.xml
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\bin\System.Web.Razor.xml
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\bin\System.Web.WebPages.xml
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\bin\Antlr3.Runtime.pdb
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\bin\EntityFramework.xml
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\bin\Microsoft.Owin.xml
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\bin\Microsoft.Owin.Security.xml
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\bin\System.Web.Http.Owin.xml
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\obj\Debug\Store.WebApi.csprojResolveAssemblyReference.cache
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\obj\Debug\Store.WebApi.dll
+C:\Users\eugenia_ursu\Source\Repos\Magazin\Store.WebApi\Store.WebApi\obj\Debug\Store.WebApi.pdb
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\ApplicationInsights.config
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\roslyn\csc.exe
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\roslyn\vbc.exe
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\Store.WebApi.dll.config
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\Store.WebApi.dll
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\Store.WebApi.pdb
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\Antlr3.Runtime.dll
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\EntityFramework.dll
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\Microsoft.AI.Web.dll
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\Microsoft.ApplicationInsights.dll
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\Microsoft.Data.Edm.dll
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\Microsoft.Data.OData.dll
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\Microsoft.Owin.dll
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\Microsoft.Owin.Security.dll
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\Newtonsoft.Json.dll
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\Owin.dll
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\System.Spatial.dll
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\System.Web.Cors.dll
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\System.Web.Helpers.dll
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\System.Web.Http.Cors.dll
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\System.Web.Http.dll
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\System.Web.Http.OData.dll
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\System.Web.Http.Owin.dll
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\System.Web.Mvc.dll
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\System.Web.Optimization.dll
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\System.Web.Razor.dll
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\System.Web.WebPages.dll
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\WebGrease.dll
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\Microsoft.AI.Web.xml
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\Microsoft.ApplicationInsights.xml
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\Microsoft.Data.Edm.xml
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\Microsoft.Data.OData.xml
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\System.Spatial.xml
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\System.Web.Http.Cors.xml
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\System.Web.Http.OData.xml
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\Newtonsoft.Json.xml
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\System.Web.Helpers.xml
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\System.Web.Http.xml
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\System.Web.Mvc.xml
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\System.Web.Optimization.xml
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\System.Web.Razor.xml
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\System.Web.WebPages.xml
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\Antlr3.Runtime.pdb
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\EntityFramework.xml
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\Microsoft.Owin.xml
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\Microsoft.Owin.Security.xml
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\System.Web.Http.Owin.xml
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\de\System.Spatial.resources.dll
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\es\System.Spatial.resources.dll
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\fr\System.Spatial.resources.dll
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\it\System.Spatial.resources.dll
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\ja\System.Spatial.resources.dll
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\ko\System.Spatial.resources.dll
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\ru\System.Spatial.resources.dll
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\obj\Debug\Store.WebApi.dll
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\obj\Debug\Store.WebApi.pdb
+C:\Users\eugenia_ursu\Downloads\Magazin-master\Store.WebApi\Store.WebApi\obj\Debug\Store.WebApi.csprojResolveAssemblyReference.cache
